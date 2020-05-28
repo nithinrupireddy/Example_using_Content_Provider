@@ -16,4 +16,6 @@
          application Content Provider
          
      * Cursor is used to fetch the data from Content provider.
+     
+     * I attached the DroidTerms APK , first we need to download that apk.Because in this application we are accessing Content Provider          of that apk to fetch the data. 
     
