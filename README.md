@@ -14,8 +14,7 @@
          Application there is no data sync.It causes huge problem.To solve this issue Content Resolver are Introduced.Content Resolver 
          provides access to all Content Provider.Its design is important as it allows simple and secure means of accessing other 
          application Content Provider
-         
-     * Cursor is used to fetch the data from Content provider.
+         #Cursor is used to fetch the data from Content provider.
      
-     * I attached the DroidTerms APK , first we need to download that apk.Because in this application we are accessing Content Provider          of that apk to fetch the data. 
+     * I attached the DroidTerms APK ,first we need to download that apk.Because in this application we are accessing Content Provider            of that apk to fetch the data. 
     
